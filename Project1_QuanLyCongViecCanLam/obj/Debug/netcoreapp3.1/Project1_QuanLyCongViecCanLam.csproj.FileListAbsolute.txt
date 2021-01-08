@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\obj\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\obj\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\obj\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\obj\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\bin\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.exe
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\bin\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.deps.json
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\bin\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.runtimeconfig.json
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\bin\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\bin\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.dll
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\bin\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.pdb
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\obj\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.dll
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\obj\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.pdb
+C:\Users\Admin\source\repos\Project1_QuanLyCongViecCanLam\Project1_QuanLyCongViecCanLam\obj\Debug\netcoreapp3.1\Project1_QuanLyCongViecCanLam.genruntimeconfig.cache
